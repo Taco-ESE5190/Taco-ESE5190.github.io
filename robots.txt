@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://taco-ese5190.github.io/sitemap.xml
